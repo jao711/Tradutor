@@ -17,4 +17,7 @@ Durante o desenvolvimento deste projeto, foi possível reforçar conhecimentos e
 - Manipulação de entradas do usuário  
 - Reconhecimento de voz  
 - Organização de código  
-- Boas práticas de desenvolvimento  
+- Boas práticas de desenvolvimento
+
+## Link do projeto
+https://jao711.github.io/Tradutor/
